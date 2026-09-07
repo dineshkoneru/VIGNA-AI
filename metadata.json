@@ -1,0 +1,10 @@
+{
+  "name": "GANESH AI – Your Festival Companion",
+  "description": "An interactive AI-powered Ganesh Chaturthi assistant and festive guide for college celebrations, quiz, knowledge, and voice chat in Telugu and English.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
